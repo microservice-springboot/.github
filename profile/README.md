@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 1.Introduct
+## 1. Introduct
 Service we are going to build: 
 
 - Product Service: Create and view product, acts as Product Catalog
