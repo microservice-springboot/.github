@@ -9,6 +9,9 @@ Service we are going to build:
 - Order Service, Inventory Service and Notification Service: are going interact with each other
 - Synchrous and Asynchronous Communication
 
+## 2. Solution architecture of microservice
+https://app.diagrams.net/#G1mnrWC8xZQtqeyR1jJ6B2GIkI8EHGaFer#%7B%22pageId%22%3A%22EkI9rv1TYQ7fuRS4auLI%22%7D
+## 3. Logical architecture of service
 
 **Here are some ideas to get you started:**
 
